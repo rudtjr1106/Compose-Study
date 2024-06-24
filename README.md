@@ -10,7 +10,7 @@
 
 -> CheckBox, TextField, TopAppBar, SlotApi, Scaffold, LazyColumn
 
-## 2024.06.21
+## 2024.06.24
 - Compose 활용 공부
 
 -> Recomposition, ConstraintLayout, Canvas
