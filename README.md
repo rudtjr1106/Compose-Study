@@ -14,3 +14,9 @@
 - Compose 활용 공부
 
 -> Recomposition, ConstraintLayout, Canvas
+
+## 2024. 06. 28
+- Compose 활용 공부
+
+-> Dialog, DropDownMenu, SnackBar, Toast, BottomAppBar, BottomNavigation, State Hoisting
+
