@@ -20,3 +20,8 @@
 
 -> Dialog, DropDownMenu, SnackBar, Toast, BottomAppBar, BottomNavigation, State Hoisting
 
+## 2024. 07. 01
+- Compose 활용 실습
+
+-> Todo App 만들기 실습
+
