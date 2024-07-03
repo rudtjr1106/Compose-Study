@@ -30,3 +30,7 @@
 
 -> Todo App 만들기 실습 및 강의 내용 분석
 
+## 2024. 07. 03
+- Compose 아키텍쳐
+
+-> ViewModel, LiveData, CompositionLocal
